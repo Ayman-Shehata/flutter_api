@@ -1,7 +1,3 @@
-# apidataexample
-
-A new Flutter project.
-
 ## Fetch data from API with list
 
 ![img1](https://github.com/Ayman-Shehata/flutter_api/blob/master/d1.png)
